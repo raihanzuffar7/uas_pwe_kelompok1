@@ -1,4 +1,4 @@
-<p>Reminder : Jika Gambar Tidak Muncul Pada Kolom Gambar, lakukan Langkah Ini!</p>
+<p>Reminder : Jika Gambar Tidak Muncul Pada Kolom Gambar, lakukan Langkah Ini Pada Terminal!</p>
 <p>
   rm public/storage
   php artisan storage:link
