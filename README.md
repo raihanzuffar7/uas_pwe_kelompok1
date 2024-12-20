@@ -1,3 +1,13 @@
+<p>Reminder : Jika Gambar Tidak Muncul Pada Kolom Gambar, lakukan Langkah Ini!</p>
+<p>
+  rm public/storage
+  php artisan storage:link
+</p>
+<p>Fungsinya : untuk memungkinkan akses ke file yang disimpan di dalam direktori storage/app/public melalui URL yang lebih mudah diakses</p>
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -8,7 +18,7 @@
 </p>
 
 
-<p>pp</p>
+
 ## About Laravel
 
 
