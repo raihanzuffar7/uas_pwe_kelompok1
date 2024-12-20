@@ -1,8 +1,7 @@
 <p>Reminder : Jika Gambar Tidak Muncul Pada Kolom Gambar, lakukan Langkah Ini Pada Terminal!</p>
-<p>
-  rm public/storage
-  php artisan storage:link
-</p>
+<p>rm public/storage</p>
+<p>php artisan storage:link</p>
+
 <p>Fungsinya : untuk memungkinkan akses ke file yang disimpan di dalam direktori storage/app/public melalui URL yang lebih mudah diakses</p>
 
 
